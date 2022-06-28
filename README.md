@@ -1,3 +1,39 @@
+# Final Project (Project_2) is a travel blog 
+
+The is the final project of Full Stack Webdevelopment Course 2022 of Hamburg Coding School.
+
+Used are html, css, react, node.js
+
+## Parts of the app
+
+### 1. Data.json with the example data from 4 posts. I had no chance to spent time on building external backend
+
+
+### 2. Action components 
+  a) Button (for contact)
+  b) Icons (for new posts, home and lockin - last i did not built)
+  
+  
+### 3. Components
+  c) Header - here are a) + b) included also a logo and a headline
+  d) Bloglist and BloglistItem where b) is also included 
+  e) Map where i added the google map via api and also map sticker - my google api key is still included 
+  - an alternative map would be great for the future, because is was not so nice to have to add an credid card for study !!!!
+  f) NewPosts (for adding new posts) also b) is included
+  
+  
+### 4. Pages because of nearly static
+  g) Contact (contact information)
+  h) Postdetails (list of all posts - here i was not sure, if it really makes sence to build it under pages, because these infromation has to be updated
+  i) Home which includes the Header, Map an BlogList components
+  
+Blog is not finnished but i have no chance to spend more time on it at the moment.
+ 
+  
+  
+ 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +75,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
